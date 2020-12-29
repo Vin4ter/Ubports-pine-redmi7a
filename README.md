@@ -10,3 +10,5 @@
   8) Flash halium-ram-disk.zip
   9) Boot!
 
+  Download archive:
+  https://drive.google.com/file/d/1tBOiQzE6l-hn04aXZ8mcZfqfNBduagkH/view
